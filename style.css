@@ -4,4 +4,8 @@ html, body {
 }
 canvas {
   display: block;
+  width:600px;
+  padding-top: 150px;
+  left: -50%;
+  margin: 0 auto;
 }
